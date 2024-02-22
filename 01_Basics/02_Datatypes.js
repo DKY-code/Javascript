@@ -1,5 +1,5 @@
 console.log("Deepak")
-let name = "Deepak"
+let name = "vikas"
 let age = 19
 let isLoggedIn = false
 
@@ -12,5 +12,5 @@ null => standalone  value
 undefined => 
 symbol => It has uses in React and Figma
 */
-
-console.log(typeof undefined);
+// object
+console.log(typeof age);
