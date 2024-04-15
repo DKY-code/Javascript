@@ -1,4 +1,4 @@
-let score = "22true"
+//let score = "22true"
 // console.log(typeof score);
 // console.log(typeof(score));
 
@@ -15,17 +15,18 @@ let score = "22true"
 // let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn);
 
-// let str1 = "Deep"
+// let str1 = "Hi"
 // let str2 = " Deep"
 // let str3 = str1  +  str2
 
 // console.log(str3);
-// console.log("2" + 3);
-// console.log(2 + "3");
-// console.log("2" + 3 + 3);
-// //out put of below code will be based on Echma script guidlines.
-// console.log( 2 + 3 + "3");
-console.log(true);
+
+console.log("2" + 3);
+console.log(2 + "3");
+console.log("2" + 3 + 3);
+//out put of below code will be based on Echma script guidlines.
+console.log( 2 + 3 + "3");
+//console.log(2%3);
 
 
 
